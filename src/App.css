@@ -1,0 +1,63 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+.search-container {
+    margin-bottom: 10px;
+}
+
+.search-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    font-size: 16px;
+}
+
+.select-container {
+    margin-bottom: 10px;
+}
+
+.category-select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+* {
+    transition: all 0.3s;
+}
+
+.popup {
+    z-index: 2;
+    position: fixed;
+    bottom: 230px;
+    top: 0;
+    left: 0;
+    right: 5%;
+    display: flex;
+    justify-content: right;
+    align-items: end;
+    pointer-events: none;
+}
+
+.popup-content {
+    pointer-events: auto;
+}

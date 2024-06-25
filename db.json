@@ -1,0 +1,96 @@
+{
+  "cart": [
+    {
+      "myId": "1",
+      "id": "1",
+      "name": "Смарт телевизор",
+      "description": "Современный телевизор с поддержкой 4K и смарт-функциями для комфортного просмотра",
+      "category": "elctronics",
+      "price": "59999",
+      "url": "https://c.dns-shop.ru/thumb/st4/fit/500/500/91d2252ba27db95e991647b26945dce3/83290eb7e58a08549dac03753f5e4b36ff7ff6dcf9941d665081dd6c0f829f73.jpg.webp"
+    },
+    {
+      "myId": "2",
+      "id": "2",
+      "name": "Двухкамерный холодильник",
+      "description": "Энергосберегающий холодильник с большим объемом для хранения продуктов",
+      "category": "appliance",
+      "price": "74999",
+      "url": "https://c.dns-shop.ru/thumb/st4/fit/320/250/69a7b201e701d3f124fff075225cfe94/64560daa3aa7f8de4ada9e2e733e901f33fcf36040ea466f0e5ccc03b2593313.jpg"
+    },
+    {
+      "myId": "3",
+      "id": "3",
+      "name": "Стиральная машина",
+      "description": "Автоматическая стиральная машина с функцией сушки",
+      "category": "appliance",
+      "price": "49999",
+      "url": "https://c.dns-shop.ru/thumb/st1/fit/320/250/656066134aa875b88811e3fd3aacc484/4faa076a4da5c7f182e1afcde8ea856b260f99062346ebcb95716c067d5fe289.jpg"
+    },
+    {
+      "myId": "4",
+      "id": "4",
+      "name": "Игровой ноутбук",
+      "description": "Мощный ноутбук для игр с высоким разрешением экрана и производительным процессором",
+      "category": "PC",
+      "price": "89999",
+      "url": "https://c.dns-shop.ru/thumb/st1/fit/320/250/756d09e726d510715de2396b0b0a433d/5dab810d5042d5667b6d01f3dbf431316cd2803af577a3b5ec49b9adecd7b6ba.jpg"
+    },
+    {
+      "myId": "5",
+      "id": "5",
+      "name": "Микроволновка",
+      "description": "Компактная микроволновая печь с грилем и конвекцией",
+      "category": "appliance",
+      "price": "19999",
+      "url": "https://c.dns-shop.ru/thumb/st4/fit/320/250/719c3a1544acc574f4f03ca2bf1f2d6a/41c5b8c3c552a0e4a0af35916ceb8d43bc2ec6e982b3212eeefad4d099314bef.jpg"
+    },
+    {
+      "myId": "6",
+      "id": "6",
+      "name": "Робот-пылесос",
+      "description": "Умный робот-пылесос с функцией самоочистки и управления через смартфон",
+      "category": "appliance",
+      "price": "25999",
+      "url": "https://c.dns-shop.ru/thumb/st4/fit/320/250/542f6f302120f61e932f4bdf086536ab/dbc92fb2ea077be8e6babacc1c8033b8331fa3ebf1840682ddd89af99b2de107.jpg"
+    },
+    {
+      "myId": "7",
+      "id": "7",
+      "name": "Инверторный кондиционер",
+      "description": "Эффективный кондиционер с низким уровнем шума и функцией обогрева",
+      "category": "appliance",
+      "price": "69999",
+      "url": "https://c.dns-shop.ru/thumb/st1/fit/320/250/2062ec06932099ac669333552c78716a/451118e3a32b226a8275097c423cf934d69d4d484c591d6e043650c1a34ffdb1.jpg"
+    },
+    {
+      "myId": "8",
+      "id": "8",
+      "name": "Электрический чайник",
+      "description": "Быстрый и безопасный электрический чайник с регулируемой температурой нагрева",
+      "category": "appliance",
+      "price": "4999",
+      "url": "https://c.dns-shop.ru/thumb/st1/fit/320/250/96bc47461844ee6965a5c28a634c68c2/9998bfce9f6200df18a89f840d6dcbbb48f8f83ffc2c248935fd4a9c97cac456.jpg"
+    },
+    {
+      "myId": "9",
+      "id": "9",
+      "name": "Зеркальная камера",
+      "description": "Профессиональная зеркальная камера с высоким разрешением и быстрой автофокусировкой",
+      "category": "photo",
+      "price": "159999",
+      "url": "https://c.dns-shop.ru/thumb/st1/fit/320/250/50df3610672d84904a26fa5e23d158d8/42b08bc250a403778e03943b526e871eaf8896b823ae2e1be0df8d8ea3669029.jpg"
+    },
+    {
+      "myId": "10",
+      "id": "10",
+      "name": "Беспроводные колонки",
+      "description": "Портативные беспроводные колонки с высоким качеством звука и длительным временем работы",
+      "category": "audio",
+      "price": "14999",
+      "url": "https://c.dns-shop.ru/thumb/st4/fit/320/250/3f4b7680a065f81d7f32660f9a457be9/f09f8f76d7b1fb0680a3d13ebf34cb9645e53b7299ea1059f7b924aab34fe9d7.jpg"
+    }
+  ],
+  "overlays": [],
+  "favorite": []
+}
